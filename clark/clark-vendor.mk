@@ -175,6 +175,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib64/libqmimotext.so:system/lib64/libqmimotext.so \
     vendor/motorola/clark/proprietary/lib64/libqti-iop.so:system/lib64/libqti-iop.so \
     vendor/motorola/clark/proprietary/lib/hw/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so \
+    vendor/motorola/clark/proprietary/lib/hw/audio.primary.msm8992.so:system/lib/hw/audio.primary.msm8992.so \
     vendor/motorola/clark/proprietary/lib/hw/camera.vendor.msm8992.so:system/lib/hw/camera.vendor.msm8992.so \
     vendor/motorola/clark/proprietary/lib/hw/keystore.qcom.so:system/lib/hw/keystore.qcom.so \
     vendor/motorola/clark/proprietary/lib/hw/sensors.msm8992.so:system/lib/hw/sensors.msm8992.so \
@@ -184,6 +185,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
     vendor/motorola/clark/proprietary/lib/libAlAisTune.so:system/lib/libAlAisTune.so \
     vendor/motorola/clark/proprietary/lib/libAlAisWrap.so:system/lib/libAlAisWrap.so \
+    vendor/motorola/clark/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
     vendor/motorola/clark/proprietary/lib/libbson.so:system/lib/libbson.so \
     vendor/motorola/clark/proprietary/lib/libcamerabgproc-jni.so:system/lib/libcamerabgproc-jni.so \
     vendor/motorola/clark/proprietary/lib/libcamerabgprocservice.so:system/lib/libcamerabgprocservice.so \
